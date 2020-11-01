@@ -4,5 +4,6 @@ public class Batman {
         System.out.println("Batman");
 
         // He will catch the Joker
+        // Batman has a cool batmobile
     }
 }
